@@ -1,2 +1,2 @@
 # Testes
-It is and EXAMPLE, do not modify
+It is an EXAMPLE, do not modify
